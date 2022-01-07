@@ -1,4 +1,6 @@
-### Hi there 👋
+
+<a href="https://baam.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-1976d2?style=flat-square&logo=Diaspora&logoColor=white"/></a> <img src="https://img.shields.io/badge/bg920611@gmail.com-d81b60?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
 
 <!--
 **Lawen-s/Lawen-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
