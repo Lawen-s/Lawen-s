@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=80deea&height=300&section=header&text=Lawen-s%20🚀🚀&animation=twinkling&fontColor=fafafa&fontSize=90&rotate=345)
+![header](https://capsule-render.vercel.app/api?type=waving&color=80deea&height=300&section=header&text=Lawen-s%20🚀&animation=twinkling&fontColor=fafafa&fontSize=90&rotate=345)
 
 <div align="center">
     <a href="https://baam.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-1976d2?style=flat-square&logo=Diaspora&logoColor=white"/></a> <img src="https://img.shields.io/badge/bg920611@gmail.com-d81b60?style=flat-square&logo=Gmail&logoColor=white"/>
