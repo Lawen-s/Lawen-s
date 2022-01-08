@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=80deea&height=300&section=header&text=Lawen-s%20🚀ad&animation=twinkling&fontColor=fafafa&fontSize=90&rotate=345)
+![header](https://capsule-render.vercel.app/api?type=waving&color=80deea&height=300&section=header&text=Lawen-s%20🚀&animation=twinkling&fontColor=fafafa&fontSize=90&rotate=345)
 
 <div align="center">
     <h3>:mag_right:𝑴𝒚 𝑰𝒏𝒇𝒐:mag:</h3>
