@@ -11,7 +11,7 @@
   </br>
 </br>
 </br>
-<h3>:scroll:𝑫𝒆𝒆𝒅𝒔, 𝒏𝒐𝒕 𝒘𝒐𝒓𝒅𝒔 𝒔𝒉𝒂𝒍𝒍 𝒔𝒑𝒆𝒂𝒌 𝒎𝒆.</h3>
+<h3>:scroll:𝑰'𝒎 𝒏𝒐𝒕 𝒂𝒇𝒓𝒂𝒊𝒅.</h3>
 </div>
 
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Lawen-s&show_icons=true&theme=buefy"/></p> -->
