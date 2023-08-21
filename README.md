@@ -2,7 +2,7 @@
 
 <div align="center">
     <h3>:mag_right:𝑴𝒚 𝑰𝒏𝒇𝒐:mag:</h3>
-    <a href="https://baam.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-1976d2?style=flat-square&logo=Diaspora&logoColor=white"/></a> <img src="https://img.shields.io/badge/bg920611@gmail.com-d81b60?style=flat-square&logo=Gmail&logoColor=white"/>
+    <a href="https://baam.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-1976d2?style=flat-square&logo=Diaspora&logoColor=white"/></a> <img src="https://img.shields.io/badge/lawens7215@gmail.com-d81b60?style=flat-square&logo=Gmail&logoColor=white"/>
 </br>
 
 </br>
